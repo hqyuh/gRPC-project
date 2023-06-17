@@ -1,0 +1,6 @@
+server:
+  port: 9100
+
+grpc:
+  server:
+    port: 9000

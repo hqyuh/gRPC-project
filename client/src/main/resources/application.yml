@@ -1,0 +1,5 @@
+grpc:
+  client:
+    grpc-hqh-service:
+      address: static://localhost:9000
+      negotiationType: plainText
