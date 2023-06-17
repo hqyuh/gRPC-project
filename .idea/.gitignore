@@ -1,0 +1,8 @@
+# Default ignored files
+/../../../:grpc-project/.idea/shelf/
+/../../../:grpc-project/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../../:grpc-project/.idea/httpRequests/
+# Datasource local storage ignored files
+/../../../:grpc-project/.idea/dataSources/
+/../../../:grpc-project/.idea/dataSources.local.xml
